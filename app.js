@@ -14,5 +14,5 @@ app.use("/user", user)
 
 //端口号
 app.listen(9527, () => {
-    console.log("开始运行");
+    console.log("9527开始运行...");
 })
